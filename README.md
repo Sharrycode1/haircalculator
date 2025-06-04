@@ -44,7 +44,7 @@ Try out the full experience and see how it helps users take control of their hai
 ## 📸 Screenshots
 
 
-![Hair Growth Tracker Screenshot](hair-growth-calculator .png)
+![Hair Growth Calculator Screenshot](hair-growth-calculator.png)
 *Track your monthly hair growth length and see realistic projections.*
 
 ---
