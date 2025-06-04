@@ -39,8 +39,6 @@ Try out the full experience and see how it helps users take control of their hai
 
 ## 📸 Screenshots
 
-![Hair Transplant Cost Calculator Screenshot](demo-image-1.png)
-*Estimate total transplant cost with personalized inputs.*
 
 ![Hair Growth Tracker Screenshot](demo-image-2.png)
 *Track your monthly hair growth length and see realistic projections.*
